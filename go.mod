@@ -1,3 +1,3 @@
 module github.com/alauda/ovsdb
 
-go 1.14
+go 1.15
